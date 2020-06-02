@@ -1,7 +1,15 @@
 # Vuejs Todo App  ⚡️
 [![HitCount](http://hits.dwyl.com/abdulwahab0/https://githubcom/AbdulWahab0/ToDos-App-vuejs.svg)](http://hits.dwyl.com/abdulwahab0/https://githubcom/AbdulWahab0/ToDos-App-vuejs)
-## A clean, beautiful and responsive To do App for Vue.js Developers!
-![](demo.gif)
+## A clean, beautiful and responsive To do App for Vue.js Developers! Task_list.png
+## Show Task List
+<p align="center"> 
+  <kbd>
+  	<a href="#" target="_blank">
+		<img src="Task_list.png"></img>
+	</a>
+  </kbd>
+</p>
+
 
 
 ## Sections 
