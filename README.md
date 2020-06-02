@@ -11,7 +11,7 @@
 </p>
 
 ## Demo Website
-👉 Demo :https://piza-delivery-shop.herokuapp.com/
+👉 Live Demo :https://hypnosdemo.000webhostapp.com/
 
 Let me know if you have any questions. [Email Abdul Wahab ](mailto:wahab3060h@gmail.com)
 
