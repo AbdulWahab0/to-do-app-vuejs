@@ -5,8 +5,8 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "test:unit": "vue-cli-service test:unit",
-    "start": "node server.js"
+    "start": "node server.js",
+    "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
     "express": "^4.17.1",
