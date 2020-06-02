@@ -14,7 +14,7 @@
 
 👉 Live Demo on Free web Hosting :https://hypnosdemo.000webhostapp.com/
 
-👉 Live Demo on Heroku :https://todoappvuejs.herokuapp.com/ (Comming Soon)
+👉 Live Demo on Heroku :https://todoappvuejs.herokuapp.com/ ## Comming Soon
 
 Let me know if you have any questions. [Email Abdul Wahab ](mailto:wahab3060h@gmail.com)
 
