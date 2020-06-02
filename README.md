@@ -10,7 +10,10 @@
   </kbd>
 </p>
 
+## Demo Website
+👉 Demo :https://piza-delivery-shop.herokuapp.com/
 
+Let me know if you have any questions. [Email Abdul Wahab ](mailto:wahab3060h@gmail.com)
 
 ## Sections 
 ✔️ Add the Task\
@@ -41,6 +44,9 @@
 
 - [Vue Js](https://vuejs.org/)
 
+## Run Locally 🚀
+
+- git clone git@github.com/AbdulWahab0/to-do-app-vuejs.git
 
 ## Project setup
 ```
